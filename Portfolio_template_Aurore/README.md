@@ -2,7 +2,7 @@
 
 A modern, responsive landing page designed for both professional and personal portfolios. This project is realized with HTML, CSS, and JavaScript, offering an elegant and intuitive interface.
 
-
+<img width="745" alt="preview" src="https://github.com/user-attachments/assets/af841684-2219-4309-b70e-cbac7e544525">
 
 ## Features
 
